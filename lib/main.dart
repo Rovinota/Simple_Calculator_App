@@ -153,7 +153,7 @@ class _CalculatorState extends State<Calculator> {
                     size: 25,
                     color: Colors.white,
                   ),
-                  Text("Copyright by Zahid",
+                  Text("Copyright by Tanvir",
                   style: TextStyle(
                     color: Colors.white,
 
